@@ -1,0 +1,67 @@
+.h1b {
+    color: #fa0a0a;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 700;
+    border: 1px solid #fa0a0a;
+    box-shadow: 2px 2px 4px #fa0a0a;
+    padding: 15px;
+    text-align: center;
+    text-shadow: 2px 2px 4px #fcf9f9;
+  }
+  .h1a {
+    color: #fa0a0a;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 700;
+    /* border: 1px solid #ffbb00; */
+    box-shadow: 2px 2px #fa0a0a;
+    padding: 15px;
+    text-align: right;
+    /* text-shadow: 2px 2px 4px #fcf9f9; */
+  }
+  .h2a {
+    color: #ff8800;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 400;
+    border: 1px solid rgb(255, 136, 0);
+    box-shadow: 2px 2px 4px rgb(255, 136, 0);
+    padding: 15px;
+    text-align: center;
+    text-shadow: 1px 1px 4px #fcf9f9;
+  }
+  
+  .h3a {
+    color: #1940f0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 700;
+    border: 1px solid #1940f0;
+    box-shadow: 2px 2px 4px #1940f0;
+    padding: 15px;
+    text-align: center;
+    text-shadow: 2px 2px 4px #fcf9f9;
+  }
+  .p1 {
+    text-align: justify;
+    border: 1px solid #f1ad23;
+    box-shadow: 1px 2px 4px #fa0a0a;
+    padding: 50px;
+  }
+  .p1a {
+    text-align: justify;
+  }
+  .a1 {
+    font-size: 25px;
+    color: #ffee00;
+  }
+  .a2 {
+    font-size: 25px;
+    color: #1940f0;
+  }
+
+  /* .popover {
+    --bs-popover-max-width: 200px;
+    --bs-popover-border-color: var(--bd-violet-bg);
+    --bs-popover-header-bg: var(--bd-violet-bg);
+    --bs-popover-header-color: var(--bs-white);
+    --bs-popover-body-padding-x: 1rem;
+    --bs-popover-body-padding-y: .5rem;
+  } */
