@@ -1,12 +1,12 @@
 .h1b {
-    color: #fa0a0a;
+    color: #0a0909;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-weight: 700;
-    border: 1px solid #fa0a0a;
-    box-shadow: 2px 2px 4px #fa0a0a;
-    padding: 15px;
-    text-align: center;
-    text-shadow: 2px 2px 4px #fcf9f9;
+    font-weight: 550;
+    /* border: 1px solid #fa0a0a; */
+    /* box-shadow: 2px 2px 4px #fa0a0a; */
+    /* padding: 15px; */
+    /* text-align: center; */
+    /* text-shadow: 2px 2px 4px #fcf9f9; */
   }
   .h1a {
     color: #fa0a0a;
@@ -65,3 +65,20 @@
     --bs-popover-body-padding-x: 1rem;
     --bs-popover-body-padding-y: .5rem;
   } */
+
+ .pad 
+  {
+    padding-top: 250px;
+  }
+  .pad1
+  {
+    padding-top: 155px;
+  }
+  .pad2
+  {
+    padding-top: 70px;
+  }
+  .cMargin {margin: 20px;
+  }
+
+  .w1h {margin: 30px}
