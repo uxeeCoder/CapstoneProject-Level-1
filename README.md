@@ -15,7 +15,7 @@ This portfolio is designed in a way that potential clients and employers can see
 
 ## Daily Reflections
 
-### Day 1: [12/10/2023]
+### Day 1: [12/11/2023]
 
 #### Today's Progress
 - Created repository on github, cloned it. created nessesary html CSS and JS files. Created basic infrastructure of the page including landing page and linked pages.
@@ -33,7 +33,7 @@ Done with ACP.
 
 ---
 
-### Day 2: [12/11/2023]
+### Day 2: [12/12/2023]
 
 #### Today's Progress
 Added some functionality to home page. properly linked all 6 pages and added required  card elements to them. Added relevant logos on the pages. fixed sizing and  positioning of the elements.
@@ -51,8 +51,20 @@ Will add social media links to the home page. will create Github repositories to
 
 ---
 
-### Day 3: [Date]
-*Repeat the same structure as Day 1*
+### Day 3: [12/13/2023]
+#### Today's Progress
+fixed functionality issues of Icons overlaping other elements by defining width and height for them, fixed sizing and positioning of the elements for different screen sizes.
+Added social media links in the navBar
+Done with ACP
+#### Challenges and Blockers
+
+Had trouble with the mouse over option to incrase the size of the icons which was fixed yesterday yet it still had some overlapping issue on different screen sizes which was fixed today.
+
+#### Learning and Insights
+Got help from AI to format the code and resolve potential bugs. 
+
+#### Next Steps
+Github repositories still need to be created to upload all my work to Github and link it to the pages in my portfolio.
 
 ---
 
