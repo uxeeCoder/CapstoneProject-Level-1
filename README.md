@@ -106,3 +106,4 @@ Explain how to use the project. Include any necessary commands, user instruction
 ---
 
 **Note to Students:** Be sure to update this README daily with your reflections and maintain it as a living document throughout your project. This file not only serves as a diary of your progress but also as a comprehensive overview of your capstone project for anyone who visits your repository.
+![Alt text](image.png)
