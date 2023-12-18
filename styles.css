@@ -52,7 +52,7 @@
     text-align: justify;
     border: 1px solid #f1ad23;
     box-shadow: 1px 2px 4px #fa0a0a;
-    padding: 50px;
+    padding: 20px;
   }
   .p1a {
     text-align: justify;
@@ -77,7 +77,7 @@
 
  .pad 
   {
-    padding-top: 250px;
+    padding-top: 100px;
   }
   .pad1
   {
@@ -97,3 +97,5 @@
   }
 
   .m1{margin-right: 15px;}
+  .highlight{ font-weight: 500;
+  font-size: 35px;}
