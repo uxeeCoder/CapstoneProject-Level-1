@@ -68,40 +68,53 @@ Github repositories still need to be created to upload all my work to Github and
 
 ---
 
-### Day 4: [Date]
-*Repeat the same structure as Day 1*
+### Day 4: [12/14/2023]
+#### Today's Progress
+added contact form to main page.
+added github icon for navigation to my github profile.
+improved functionality of the page with cosmetic changes.
+fixed description on cards representing different weeks of my progress and learning.
+created required Github repositories for week 01 and 02
+Done with ACP
+#### Challenges and Blockers
+Nothing so far for the day
+
+#### Next Steps
+Need to create all necessary repositories in github to link with relative pages on the portfolio
 
 ---
 
-### Day 5: [Date]
-*Repeat the same structure as Day 1*
+### Day 5: [12/15/2023]
+#### Today's Progress
+Done creating all repositories to link with portfolio pages
+linked all relevant repositories to their respective pages
+linked week 5 and 6 directly from github to their existing repositories.
+Made some cosmetic chages to the Intro section of homepage.
+checked all the links on all pages for functionality.
+Done ACP as many times needed to keep everything updated
+
 
 ---
 
 ## Final Reflection
-(To be completed at the end of the week)
 - Overview of the entire project experience.
-- Reflection on successes and areas for improvement.
+My capstone project was a huge opertunity for me to apply all the skills learned so far and to overcome the challenges to complete the project. obstacles only enhanced my overall understanding and ability to deal with blockers succesfully. I was able to present my own ideas on the project.
 - Personal growth and learnings.
+
+All the brainstorming and effort to overcome challenges to finish the capstone project helped me further improve my skills and made me feel more confident upon its completion.
+Helped paved path for me to learn new skills easily in future, 
 
 ---
 
 ## Attribution
-Acknowledge any external resources, libraries, or individuals who have contributed to your project. This could include:
-- Open-source libraries used
-- Tutorials or guides followed
-- Assistance from mentors, instructors, or peers
+
+- To complete this capstone project I got help from my teacher/TA whenever it was necessary. Along the path I also used Open-source libraries such as MDN Docs, Google and used AI tools to check code for errors and formatting issues as needed
+used Unsplash image to populate homepage with Display Picture
 
 ---
 
-## Additional Information
-
-### Installation Instructions
-Provide step-by-step instructions on how to install and run your project.
-
 ### Usage
-Explain how to use the project. Include any necessary commands, user instructions, or examples.
-
+Portfolio page is simple enough to navigate easily for all users yet it has all the necessary information about my learning path and skill development.
 
 ---
 
